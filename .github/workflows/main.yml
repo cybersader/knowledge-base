@@ -22,4 +22,4 @@ jobs:
           static-bottom-text: '_This documentation is self-generated and will be overwritten. Please do not edit it manually._'
           file-path: './readme.md'
           notion-token: ${{ secrets.GIT_TO_NOTION_KEY }}
-          notion-page-id: ${{ secrets.NOTION_PAGE_ID_1 }}
+          notion-page-id: ${{ secrets.NOTION_PAGE_URL_1 }}
